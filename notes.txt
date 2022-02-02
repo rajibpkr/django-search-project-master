@@ -1,0 +1,5 @@
+Search Functionality in Django Project
+
+https://www.youtube.com/watch?v=iFlSrEuyl8I
+
+https://github.com/KenBroTech/django-search-project
